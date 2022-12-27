@@ -1,0 +1,19 @@
+{
+  "name": "spl-node",
+  "version": "1.0.0",
+  "description": "Contains SPL token code",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spl-token",
+    "solana"
+  ],
+  "author": "jslusser@kurkuma.co",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-fs": "^2.20.0"
+  }
+}
